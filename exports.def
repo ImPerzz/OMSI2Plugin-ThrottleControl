@@ -1,0 +1,9 @@
+LIBRARY ThrottleControl.dll
+
+EXPORTS
+PluginStart
+PluginFinalize
+AccessSystemVariable
+AccessVariable
+AccessTrigger
+AccessStringVariable

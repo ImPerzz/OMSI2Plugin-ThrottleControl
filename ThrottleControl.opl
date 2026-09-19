@@ -1,0 +1,10 @@
+[dll]
+ThrottleControl.dll
+
+[systemvarlist]
+1
+Timegap
+
+[varlist]
+1
+Throttle
